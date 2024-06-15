@@ -1,0 +1,10 @@
+# [PROJECT_DIR]/Cargo.toml
+[workspace]
+members = ["constant-factors", "big-o-plot"]
+
+[workspace.dependencies]
+plotters = "0.3.6"
+
+
+
+workspace.resolver = "2"
