@@ -1,5 +1,7 @@
 # Big O constant factors
 
+As the input sizes approach infinity, the constant factors grow insignificantly, so they will be disregarded in this respect.
+
 Sure! Let's illustrate the concept of how \( O(5n) \) simplifies to \( O(n) \) using a simple example.
 
 ### Explanation
