@@ -15,6 +15,7 @@ fn verify_password(password: &str, hashed_password: &str) -> bool {
 fn main() {
     let password = "my_secure_password";
     let hashed_password = hash_password(password);
+    // hased password: b02c6bf2b2b576d253f5c9db76999eebc4f00ad2
 
     println!("Original password: {}", password);
     println!("Hashed password: {}", hashed_password);
