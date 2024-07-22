@@ -1,0 +1,14 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "is_student": false,
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown"
+    },
+    "phone_numbers": [
+        "123-456-7890",
+        "987-654-3210"
+    ]
+}
+

@@ -1,5 +1,5 @@
 [workspace]
-members = ["constant-factors", "big-o-plot", "constant-factors2", "plots/n_square", "six_odd_numbers", "transcription", "recursion_factorial", "recursion_fibonacci", "reputation_score", "map-storage", "password-encryption", "random-number-seed", "random-number", "person-fit"]
+members = ["constant-factors", "big-o-plot", "constant-factors2", "plots/n_square", "six_odd_numbers", "transcription", "recursion_factorial", "recursion_fibonacci", "reputation_score", "map-storage", "password-encryption", "random-number-seed", "random-number", "person-fit", "database", "baby-formula", "json-parsing", "statistics/mean", "p2p-programming/ping"]
 resolver = "2"
 
 
